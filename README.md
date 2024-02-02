@@ -7,10 +7,13 @@ A user-controlled ship for a space-shooter game. Created in Unity.
 ## Implementation
 
 ## References
+
 None
 
 ## Future Development
-None
+
+* add asteroids
 
 ## Created by
+
 Seric von Laszewski
